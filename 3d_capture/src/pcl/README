@@ -1,0 +1,1 @@
+此test是包含了pcl，将rgb图像保存，直接将depth保存格式为PointCloudXYZ格式的数据。

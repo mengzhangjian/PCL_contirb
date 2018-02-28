@@ -1,0 +1,1 @@
+g++  test.cpp -o test -L./lib -lImiHandGrab -liminect -lImiCamera -ljpeg -std=c++11 -ldl -lopencv_core -lopencv_highgui -lopencv_imgproc
